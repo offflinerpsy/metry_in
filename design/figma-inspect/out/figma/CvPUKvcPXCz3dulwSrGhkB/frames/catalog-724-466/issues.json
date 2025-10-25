@@ -1,0 +1,18 @@
+{
+  "offGrid": [],
+  "gapDrift": [],
+  "paddingMismatch": [],
+  "typoDrift": [
+    {
+      "family_size": "Unbounded-20.0",
+      "lineHeights": [
+        24.799999237060547
+      ],
+      "letterSpacings": [
+        0.0,
+        0.8399999618530274
+      ]
+    }
+  ],
+  "colorNearDuplicates": []
+}

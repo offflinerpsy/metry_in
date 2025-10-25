@@ -1,0 +1,4926 @@
+{
+  "file": {
+    "key": "CvPUKvcPXCz3dulwSrGhkB",
+    "name": "M_IN_CENTER",
+    "lastModified": "2025-10-24T10:27:42Z",
+    "version": "2278432305679708706"
+  },
+  "frame": {
+    "id": "203:174",
+    "name": "Home-2",
+    "size": {
+      "w": 1920.0,
+      "h": 2198.0
+    },
+    "pos": {
+      "x": 3772.0,
+      "y": 5227.0
+    },
+    "renderBounds": {
+      "x": 3772.0,
+      "y": 5227.0,
+      "w": 1920.0,
+      "h": 2198.0
+    }
+  },
+  "children": [
+    {
+      "id": "211:318",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 308",
+      "size": {
+        "w": 547.0,
+        "h": 449.0
+      },
+      "pos": {
+        "x": 4601.0,
+        "y": 5516.0
+      },
+      "renderBounds": {
+        "x": 4596.0,
+        "y": 5511.0,
+        "w": 557.0,
+        "h": 459.0
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 5.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        12.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:175",
+      "type": "VECTOR",
+      "name": "Контур 35",
+      "size": {
+        "w": 25.1,
+        "h": 34.7
+      },
+      "pos": {
+        "x": 8039.9,
+        "y": 12807.7
+      },
+      "renderBounds": null,
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 3.0,
+          "blur": 3.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:176",
+      "type": "TEXT",
+      "name": "Аккаунт",
+      "size": {
+        "w": 107.0,
+        "h": 22.0
+      },
+      "pos": {
+        "x": 6143.0,
+        "y": 5250.0
+      },
+      "renderBounds": null,
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 18.0,
+        "lineHeight": 22.31999969482422,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Аккаунт"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:177",
+      "type": "BOOLEAN_OPERATION",
+      "name": "Union",
+      "size": {
+        "w": 1417.0,
+        "h": 100.3
+      },
+      "pos": {
+        "x": 4210.0,
+        "y": 5227.0
+      },
+      "renderBounds": {
+        "x": 4205.0,
+        "y": 5227.0,
+        "w": 1427.0,
+        "h": 105.3
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 5.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:180",
+      "type": "BOOLEAN_OPERATION",
+      "name": "Union",
+      "size": {
+        "w": 309.0,
+        "h": 100.0
+      },
+      "pos": {
+        "x": 3836.0,
+        "y": 5227.2
+      },
+      "renderBounds": {
+        "x": 3831.0,
+        "y": 5227.0,
+        "w": 319.0,
+        "h": 105.2
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 5.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:183",
+      "type": "FRAME",
+      "name": "Frame 9",
+      "size": {
+        "w": 1213.0,
+        "h": 26.0
+      },
+      "pos": {
+        "x": 4312.0,
+        "y": 5264.2
+      },
+      "renderBounds": {
+        "x": 4312.0,
+        "y": 5264.2,
+        "w": 1213.0,
+        "h": 26.0
+      },
+      "autoLayout": {
+        "layoutMode": "HORIZONTAL",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "itemSpacing": 108.0,
+        "counterAxisSpacing": 0,
+        "primaryAxisSizingMode": null,
+        "counterAxisSizingMode": null,
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER",
+        "layoutWrap": "NO_WRAP",
+        "strokesIncludedInLayout": false
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:190",
+      "type": "RECTANGLE",
+      "name": "54678903456758698979798999 6",
+      "size": {
+        "w": 193.0,
+        "h": 50.0
+      },
+      "pos": {
+        "x": 3894.0,
+        "y": 5252.2
+      },
+      "renderBounds": {
+        "x": 3894.0,
+        "y": 5252.2,
+        "w": 193.0,
+        "h": 50.0
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:192",
+      "type": "TEXT",
+      "name": "Стильные студии посуточно в \nМоскве и Санкт-Петербурге",
+      "size": {
+        "w": 150.0,
+        "h": 62.0
+      },
+      "pos": {
+        "x": 3836.0,
+        "y": 5394.0
+      },
+      "renderBounds": {
+        "x": 3838.5,
+        "y": 5418.5,
+        "w": 146.3,
+        "h": 38.3
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 50.0,
+        "lineHeight": 86.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Блог"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:436",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 297",
+      "size": {
+        "w": 715.0,
+        "h": 349.0
+      },
+      "pos": {
+        "x": 3836.0,
+        "y": 5516.0
+      },
+      "renderBounds": {
+        "x": 3831.0,
+        "y": 5511.0,
+        "w": 725.0,
+        "h": 359.0
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 5.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        12.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:444",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 301",
+      "size": {
+        "w": 569.0,
+        "h": 366.0
+      },
+      "pos": {
+        "x": 4675.0,
+        "y": 6331.0
+      },
+      "renderBounds": {
+        "x": 4670.0,
+        "y": 6326.0,
+        "w": 579.0,
+        "h": 376.0
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 5.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        12.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:438",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 298",
+      "size": {
+        "w": 366.0,
+        "h": 366.0
+      },
+      "pos": {
+        "x": 3836.0,
+        "y": 6331.0
+      },
+      "renderBounds": {
+        "x": 3831.0,
+        "y": 6326.0,
+        "w": 376.0,
+        "h": 376.0
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 5.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        12.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:440",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 299",
+      "size": {
+        "w": 366.0,
+        "h": 366.0
+      },
+      "pos": {
+        "x": 4259.0,
+        "y": 6331.0
+      },
+      "renderBounds": {
+        "x": 4254.0,
+        "y": 6326.0,
+        "w": 376.0,
+        "h": 376.0
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 5.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        12.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:314",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 306",
+      "size": {
+        "w": 366.0,
+        "h": 366.0
+      },
+      "pos": {
+        "x": 3836.0,
+        "y": 5915.0
+      },
+      "renderBounds": {
+        "x": 3831.0,
+        "y": 5910.0,
+        "w": 376.0,
+        "h": 376.0
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 5.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        12.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:316",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 307",
+      "size": {
+        "w": 292.0,
+        "h": 366.0
+      },
+      "pos": {
+        "x": 4259.0,
+        "y": 5915.0
+      },
+      "renderBounds": {
+        "x": 4254.0,
+        "y": 5910.0,
+        "w": 302.0,
+        "h": 376.0
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 5.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        12.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:442",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 300",
+      "size": {
+        "w": 643.0,
+        "h": 266.0
+      },
+      "pos": {
+        "x": 4601.0,
+        "y": 6015.0
+      },
+      "renderBounds": {
+        "x": 4596.0,
+        "y": 6010.0,
+        "w": 653.0,
+        "h": 276.0
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 5.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        12.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:446",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 302",
+      "size": {
+        "w": 333.0,
+        "h": 682.0
+      },
+      "pos": {
+        "x": 5294.0,
+        "y": 6015.0
+      },
+      "renderBounds": {
+        "x": 5289.0,
+        "y": 6010.0,
+        "w": 343.0,
+        "h": 692.0
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 5.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        12.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:395",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 325",
+      "size": {
+        "w": 429.0,
+        "h": 449.0
+      },
+      "pos": {
+        "x": 5198.0,
+        "y": 5516.0
+      },
+      "renderBounds": {
+        "x": 5193.0,
+        "y": 5511.0,
+        "w": 439.0,
+        "h": 459.0
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 5.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        12.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:448",
+      "type": "TEXT",
+      "name": "Как выбрать пакет?",
+      "size": {
+        "w": 432.0,
+        "h": 68.0
+      },
+      "pos": {
+        "x": 3875.0,
+        "y": 5542.0
+      },
+      "renderBounds": {
+        "x": 3877.6,
+        "y": 5546.9,
+        "w": 422.1,
+        "h": 32.7
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Как выбрать пакет?"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:450",
+      "type": "TEXT",
+      "name": "Почему мы?",
+      "size": {
+        "w": 270.0,
+        "h": 68.0
+      },
+      "pos": {
+        "x": 3875.0,
+        "y": 6367.0
+      },
+      "renderBounds": {
+        "x": 3877.6,
+        "y": 6373.0,
+        "w": 258.2,
+        "h": 32.1
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Почему мы?"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:324",
+      "type": "TEXT",
+      "name": "Интересные истории",
+      "size": {
+        "w": 270.0,
+        "h": 68.0
+      },
+      "pos": {
+        "x": 3875.0,
+        "y": 5951.0
+      },
+      "renderBounds": {
+        "x": 3877.1,
+        "y": 5957.5,
+        "w": 261.1,
+        "h": 70.1
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Интересные\nистории"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:326",
+      "type": "TEXT",
+      "name": "Наш мерч",
+      "size": {
+        "w": 270.0,
+        "h": 68.0
+      },
+      "pos": {
+        "x": 4285.0,
+        "y": 5951.0
+      },
+      "renderBounds": {
+        "x": 4287.6,
+        "y": 5957.5,
+        "w": 211.1,
+        "h": 31.1
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Наш мерч"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:452",
+      "type": "TEXT",
+      "name": "Места, которые стоит посетить в Питере",
+      "size": {
+        "w": 511.0,
+        "h": 68.0
+      },
+      "pos": {
+        "x": 4637.0,
+        "y": 6041.0
+      },
+      "renderBounds": {
+        "x": 4639.1,
+        "y": 6047.5,
+        "w": 464.4,
+        "h": 70.1
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Места, которые стоит посетить в Питере"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:454",
+      "type": "TEXT",
+      "name": "Топ-5 преимуществ премиум-заселения",
+      "size": {
+        "w": 511.0,
+        "h": 68.0
+      },
+      "pos": {
+        "x": 4716.0,
+        "y": 6367.0
+      },
+      "renderBounds": {
+        "x": 4716.6,
+        "y": 6373.5,
+        "w": 437.7,
+        "h": 70.6
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Топ-5 преимуществ\nпремиум-заселения"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:456",
+      "type": "TEXT",
+      "name": "Уют...",
+      "size": {
+        "w": 131.0,
+        "h": 68.0
+      },
+      "pos": {
+        "x": 4295.0,
+        "y": 6367.0
+      },
+      "renderBounds": {
+        "x": 4295.3,
+        "y": 6373.5,
+        "w": 110.7,
+        "h": 26.0
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Уют..."
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "203:458",
+      "type": "TEXT",
+      "name": "Как называли однушки в царской России?",
+      "size": {
+        "w": 274.0,
+        "h": 188.0
+      },
+      "pos": {
+        "x": 5330.0,
+        "y": 6039.0
+      },
+      "renderBounds": {
+        "x": 5331.1,
+        "y": 6045.5,
+        "w": 228.8,
+        "h": 182.0
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Как называли однушки в царской России?"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:264",
+      "type": "RECTANGLE",
+      "name": "34657869076542345896908079689679 2",
+      "size": {
+        "w": 342.0,
+        "h": 233.0
+      },
+      "pos": {
+        "x": 3894.0,
+        "y": 6464.0
+      },
+      "renderBounds": {
+        "x": 3894.0,
+        "y": 6464.0,
+        "w": 342.0,
+        "h": 233.0
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:397",
+      "type": "TEXT",
+      "name": "Почему мы?",
+      "size": {
+        "w": 270.0,
+        "h": 68.0
+      },
+      "pos": {
+        "x": 5223.0,
+        "y": 5553.0
+      },
+      "renderBounds": {
+        "x": 5225.6,
+        "y": 5559.0,
+        "w": 258.2,
+        "h": 32.1
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Почему мы?"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:398",
+      "type": "RECTANGLE",
+      "name": "34657869076542345896908079689679 3",
+      "size": {
+        "w": 377.0,
+        "h": 258.0
+      },
+      "pos": {
+        "x": 5292.0,
+        "y": 5713.0
+      },
+      "renderBounds": {
+        "x": 5292.0,
+        "y": 5713.0,
+        "w": 377.0,
+        "h": 258.0
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:265",
+      "type": "RECTANGLE",
+      "name": "35647589087653447658967970000 2",
+      "size": {
+        "w": 0.0,
+        "h": 0.0
+      },
+      "pos": {
+        "x": 4415.0,
+        "y": 6564.0
+      },
+      "renderBounds": null,
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:266",
+      "type": "RECTANGLE",
+      "name": "35647589087653447658967970000 3",
+      "size": {
+        "w": 221.0,
+        "h": 272.0
+      },
+      "pos": {
+        "x": 4387.0,
+        "y": 6417.0
+      },
+      "renderBounds": {
+        "x": 4387.0,
+        "y": 6417.0,
+        "w": 221.0,
+        "h": 272.0
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:322",
+      "type": "RECTANGLE",
+      "name": "35647589087653447658967970000 5",
+      "size": {
+        "w": 221.0,
+        "h": 272.0
+      },
+      "pos": {
+        "x": 5350.0,
+        "y": 6399.0
+      },
+      "renderBounds": {
+        "x": 5350.0,
+        "y": 6399.0,
+        "w": 221.0,
+        "h": 272.0
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:268",
+      "type": "RECTANGLE",
+      "name": "89f46cdf-7aaf-4f3a-bbf9-e186b158afb9 1",
+      "size": {
+        "w": 228.0,
+        "h": 228.0
+      },
+      "pos": {
+        "x": 4985.0,
+        "y": 6461.0
+      },
+      "renderBounds": {
+        "x": 4985.0,
+        "y": 6461.0,
+        "w": 228.0,
+        "h": 228.0
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:332",
+      "type": "TEXT",
+      "name": "Топ-5 преимуществ премиум-заселения",
+      "size": {
+        "w": 511.0,
+        "h": 68.0
+      },
+      "pos": {
+        "x": 4640.0,
+        "y": 5553.0
+      },
+      "renderBounds": {
+        "x": 4640.6,
+        "y": 5559.5,
+        "w": 437.7,
+        "h": 70.6
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Топ-5 преимуществ\nпремиум-заселения"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:269",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 157",
+      "size": {
+        "w": 182.0,
+        "h": 161.9
+      },
+      "pos": {
+        "x": 4317.0,
+        "y": 5664.0
+      },
+      "renderBounds": {
+        "x": 4317.5,
+        "y": 5664.5,
+        "w": 181.1,
+        "h": 161.0
+      },
+      "fills": [
+        {
+          "hex": "#9C4124",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 1.2999999523162842,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:273",
+      "type": "TEXT",
+      "name": "Санкт-Петербург",
+      "size": {
+        "w": 136.1,
+        "h": 22.6
+      },
+      "pos": {
+        "x": 4355.1,
+        "y": 5675.0
+      },
+      "renderBounds": {
+        "x": 4355.4,
+        "y": 5678.6,
+        "w": 72.4,
+        "h": 18.1
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Базовое"
+      },
+      "fills": [
+        {
+          "hex": "#26140C",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:275",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 170",
+      "size": {
+        "w": 189.9,
+        "h": 173.1
+      },
+      "pos": {
+        "x": 4100.5,
+        "y": 5623.0
+      },
+      "renderBounds": {
+        "x": 4102.4,
+        "y": 5624.9,
+        "w": 186.1,
+        "h": 169.3
+      },
+      "fills": [
+        {
+          "hex": "#9C4124",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 1.2999999523162842,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:277",
+      "type": "TEXT",
+      "name": "Набор для ухода, чайная корзина, халаты, фен, утюг",
+      "size": {
+        "w": 143.4,
+        "h": 44.3
+      },
+      "pos": {
+        "x": 4120.4,
+        "y": 5657.2
+      },
+      "renderBounds": {
+        "x": 4120.7,
+        "y": 5662.1,
+        "w": 123.3,
+        "h": 35.9
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Набор для ухода, чайная корзина, халаты, фен, утюг"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:279",
+      "type": "TEXT",
+      "name": "Санкт-Петербург",
+      "size": {
+        "w": 133.4,
+        "h": 33.7
+      },
+      "pos": {
+        "x": 4132.0,
+        "y": 5631.5
+      },
+      "renderBounds": {
+        "x": 4133.8,
+        "y": 5644.4,
+        "w": 82.6,
+        "h": 28.3
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Комфорт"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:270",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 172",
+      "size": {
+        "w": 172.7,
+        "h": 155.8
+      },
+      "pos": {
+        "x": 3881.0,
+        "y": 5670.0
+      },
+      "renderBounds": {
+        "x": 3882.4,
+        "y": 5671.4,
+        "w": 169.9,
+        "h": 153.0
+      },
+      "fills": [
+        {
+          "hex": "#9C4124",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 1.2999999523162842,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:286",
+      "type": "ELLIPSE",
+      "name": "Ellipse 8",
+      "size": {
+        "w": 11.8,
+        "h": 11.8
+      },
+      "pos": {
+        "x": 4116.6,
+        "y": 5663.4
+      },
+      "renderBounds": {
+        "x": 4117.5,
+        "y": 5664.3,
+        "w": 10.0,
+        "h": 10.0
+      },
+      "strokes": [
+        "#261C15"
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:290",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 303",
+      "size": {
+        "w": 178.5,
+        "h": 159.4
+      },
+      "pos": {
+        "x": 4081.0,
+        "y": 5610.0
+      },
+      "renderBounds": {
+        "x": 4078.7,
+        "y": 5607.7,
+        "w": 183.1,
+        "h": 163.9
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 4.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:291",
+      "type": "TEXT",
+      "name": "Набор для ухода, чайная корзина, халаты, фен, утюг",
+      "size": {
+        "w": 143.7,
+        "h": 32.0
+      },
+      "pos": {
+        "x": 4091.6,
+        "y": 5644.4
+      },
+      "renderBounds": {
+        "x": 4091.8,
+        "y": 5647.6,
+        "w": 123.8,
+        "h": 25.2
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Набор для ухода, чайная корзина, халаты, фен, утюг"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:292",
+      "type": "TEXT",
+      "name": "Санкт-Петербург",
+      "size": {
+        "w": 134.4,
+        "h": 22.0
+      },
+      "pos": {
+        "x": 4123.6,
+        "y": 5619.0
+      },
+      "renderBounds": {
+        "x": 4125.1,
+        "y": 5627.4,
+        "w": 82.5,
+        "h": 21.3
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Комфорт"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:293",
+      "type": "RECTANGLE",
+      "name": "765436455879670866546735985674569067 2",
+      "size": {
+        "w": 105.8,
+        "h": 106.9
+      },
+      "pos": {
+        "x": 4152.3,
+        "y": 5656.3
+      },
+      "renderBounds": {
+        "x": 4152.3,
+        "y": 5656.3,
+        "w": 105.8,
+        "h": 106.9
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:328",
+      "type": "RECTANGLE",
+      "name": "765436455879670866546735985674569067 3",
+      "size": {
+        "w": 225.0,
+        "h": 227.0
+      },
+      "pos": {
+        "x": 4330.0,
+        "y": 6048.0
+      },
+      "renderBounds": {
+        "x": 4330.0,
+        "y": 6048.0,
+        "w": 225.0,
+        "h": 227.0
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:294",
+      "type": "ELLIPSE",
+      "name": "Ellipse 10",
+      "size": {
+        "w": 11.0,
+        "h": 11.0
+      },
+      "pos": {
+        "x": 4107.5,
+        "y": 5638.6
+      },
+      "renderBounds": {
+        "x": 4108.0,
+        "y": 5639.1,
+        "w": 10.0,
+        "h": 10.0
+      },
+      "strokes": [
+        "#261C15"
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:296",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 304",
+      "size": {
+        "w": 189.2,
+        "h": 170.6
+      },
+      "pos": {
+        "x": 4333.7,
+        "y": 5644.0
+      },
+      "renderBounds": {
+        "x": 4332.3,
+        "y": 5642.7,
+        "w": 191.8,
+        "h": 173.2
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 4.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:297",
+      "type": "TEXT",
+      "name": "Санкт-Петербург",
+      "size": {
+        "w": 135.6,
+        "h": 30.5
+      },
+      "pos": {
+        "x": 4379.1,
+        "y": 5656.4
+      },
+      "renderBounds": {
+        "x": 4379.0,
+        "y": 5660.0,
+        "w": 72.4,
+        "h": 22.2
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Базовое"
+      },
+      "fills": [
+        {
+          "hex": "#26140C",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:298",
+      "type": "TEXT",
+      "name": "Ключи, постельное белье, полотенца, гигиенические средства",
+      "size": {
+        "w": 151.6,
+        "h": 42.1
+      },
+      "pos": {
+        "x": 4358.1,
+        "y": 5676.1
+      },
+      "renderBounds": {
+        "x": 4359.2,
+        "y": 5677.4,
+        "w": 130.2,
+        "h": 33.6
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Ключи, постельное белье, \nполотенца, гигиенические средства"
+      },
+      "fills": [
+        {
+          "hex": "#26140C",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:299",
+      "type": "RECTANGLE",
+      "name": "654675898796837453678996456787569899 2",
+      "size": {
+        "w": 101.3,
+        "h": 104.0
+      },
+      "pos": {
+        "x": 4406.1,
+        "y": 5703.7
+      },
+      "renderBounds": {
+        "x": 4406.1,
+        "y": 5703.7,
+        "w": 101.3,
+        "h": 104.0
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:300",
+      "type": "ELLIPSE",
+      "name": "Ellipse 11",
+      "size": {
+        "w": 11.7,
+        "h": 11.7
+      },
+      "pos": {
+        "x": 4360.8,
+        "y": 5658.9
+      },
+      "renderBounds": {
+        "x": 4361.6,
+        "y": 5659.7,
+        "w": 10.2,
+        "h": 10.2
+      },
+      "strokes": [
+        "#261C15"
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:308",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 305",
+      "size": {
+        "w": 165.6,
+        "h": 147.2
+      },
+      "pos": {
+        "x": 3866.0,
+        "y": 5684.7
+      },
+      "renderBounds": {
+        "x": 3863.7,
+        "y": 5682.4,
+        "w": 170.2,
+        "h": 151.8
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 4.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:309",
+      "type": "TEXT",
+      "name": "Вино, фрукты, ежедневная уборка, консьерж-сервис, люксовые принадлежности",
+      "size": {
+        "w": 157.0,
+        "h": 54.9
+      },
+      "pos": {
+        "x": 3877.6,
+        "y": 5716.9
+      },
+      "renderBounds": {
+        "x": 3879.9,
+        "y": 5718.2,
+        "w": 127.4,
+        "h": 32.3
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Вино, фрукты, ежедневная уборка, консьерж-сервис, люксовые  принадлежности"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:310",
+      "type": "ELLIPSE",
+      "name": "Ellipse 12",
+      "size": {
+        "w": 10.2,
+        "h": 10.2
+      },
+      "pos": {
+        "x": 3884.0,
+        "y": 5698.8
+      },
+      "renderBounds": {
+        "x": 3884.4,
+        "y": 5699.2,
+        "w": 9.3,
+        "h": 9.3
+      },
+      "strokes": [
+        "#261C15"
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:311",
+      "type": "TEXT",
+      "name": "Санкт-Петербург",
+      "size": {
+        "w": 124.2,
+        "h": 20.2
+      },
+      "pos": {
+        "x": 3900.0,
+        "y": 5696.3
+      },
+      "renderBounds": {
+        "x": 3900.3,
+        "y": 5699.9,
+        "w": 79.8,
+        "h": 20.9
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Премиум"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:312",
+      "type": "RECTANGLE",
+      "name": "35647589087653447658967970000 4",
+      "size": {
+        "w": 73.2,
+        "h": 86.7
+      },
+      "pos": {
+        "x": 3943.9,
+        "y": 5743.6
+      },
+      "renderBounds": {
+        "x": 3943.9,
+        "y": 5743.6,
+        "w": 73.2,
+        "h": 86.7
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:331",
+      "type": "RECTANGLE",
+      "name": "34546467867944563237458798763465243 1",
+      "size": {
+        "w": 208.0,
+        "h": 208.0
+      },
+      "pos": {
+        "x": 3967.0,
+        "y": 6075.0
+      },
+      "renderBounds": {
+        "x": 3967.0,
+        "y": 6075.0,
+        "w": 208.0,
+        "h": 208.0
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:402",
+      "type": "RECTANGLE",
+      "name": "34546467867944563237458798763465243 2",
+      "size": {
+        "w": 208.0,
+        "h": 208.0
+      },
+      "pos": {
+        "x": 5006.0,
+        "y": 6084.0
+      },
+      "renderBounds": {
+        "x": 5006.0,
+        "y": 6084.0,
+        "w": 208.0,
+        "h": 208.0
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:391",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 322",
+      "size": {
+        "w": 200.0,
+        "h": 192.1
+      },
+      "pos": {
+        "x": 4625.0,
+        "y": 5672.0
+      },
+      "renderBounds": {
+        "x": 4627.5,
+        "y": 5674.5,
+        "w": 195.1,
+        "h": 187.2
+      },
+      "fills": [
+        {
+          "hex": "#9C4124",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 4.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:392",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 323",
+      "size": {
+        "w": 156.6,
+        "h": 136.9
+      },
+      "pos": {
+        "x": 4785.0,
+        "y": 5669.0
+      },
+      "renderBounds": {
+        "x": 4781.3,
+        "y": 5665.3,
+        "w": 164.0,
+        "h": 144.2
+      },
+      "fills": [
+        {
+          "hex": "#9C4124",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 4.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:393",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 324",
+      "size": {
+        "w": 158.7,
+        "h": 139.3
+      },
+      "pos": {
+        "x": 4938.1,
+        "y": 5683.2
+      },
+      "renderBounds": {
+        "x": 4934.7,
+        "y": 5679.7,
+        "w": 165.5,
+        "h": 146.1
+      },
+      "fills": [
+        {
+          "hex": "#9C4124",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 4.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:383",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 321",
+      "size": {
+        "w": 195.3,
+        "h": 184.9
+      },
+      "pos": {
+        "x": 4646.0,
+        "y": 5684.0
+      },
+      "renderBounds": {
+        "x": 4647.7,
+        "y": 5685.7,
+        "w": 191.8,
+        "h": 181.5
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 4.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:384",
+      "type": "TEXT",
+      "name": "Набор для ухода, чайная корзина, халаты, фен, утюг",
+      "size": {
+        "w": 128.9,
+        "h": 68.7
+      },
+      "pos": {
+        "x": 4672.7,
+        "y": 5716.9
+      },
+      "renderBounds": {
+        "x": 4673.2,
+        "y": 5722.2,
+        "w": 117.9,
+        "h": 61.2
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Набор для ухода, чайная корзина, халаты, фен, утюг"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:385",
+      "type": "TEXT",
+      "name": "Санкт-Петербург",
+      "size": {
+        "w": 118.2,
+        "h": 57.7
+      },
+      "pos": {
+        "x": 4664.0,
+        "y": 5700.0
+      },
+      "renderBounds": {
+        "x": 4665.6,
+        "y": 5728.8,
+        "w": 61.8,
+        "h": 36.7
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Другое"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:362",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 317",
+      "size": {
+        "w": 167.1,
+        "h": 149.2
+      },
+      "pos": {
+        "x": 4774.0,
+        "y": 5677.0
+      },
+      "renderBounds": {
+        "x": 4771.7,
+        "y": 5674.7,
+        "w": 171.7,
+        "h": 153.7
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 4.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:363",
+      "type": "TEXT",
+      "name": "Набор для ухода, чайная корзина, халаты, фен, утюг",
+      "size": {
+        "w": 134.5,
+        "h": 30.0
+      },
+      "pos": {
+        "x": 4789.0,
+        "y": 5709.2
+      },
+      "renderBounds": {
+        "x": 4789.1,
+        "y": 5711.4,
+        "w": 123.8,
+        "h": 25.2
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Набор для ухода, чайная корзина, халаты, фен, утюг"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:364",
+      "type": "TEXT",
+      "name": "Санкт-Петербург",
+      "size": {
+        "w": 125.8,
+        "h": 20.6
+      },
+      "pos": {
+        "x": 4787.4,
+        "y": 5687.3
+      },
+      "renderBounds": {
+        "x": 4787.8,
+        "y": 5692.9,
+        "w": 105.7,
+        "h": 23.6
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Аксессуары"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:340",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 312",
+      "size": {
+        "w": 152.8,
+        "h": 135.1
+      },
+      "pos": {
+        "x": 4713.4,
+        "y": 5775.0
+      },
+      "renderBounds": {
+        "x": 4709.1,
+        "y": 5770.7,
+        "w": 161.4,
+        "h": 143.8
+      },
+      "fills": [
+        {
+          "hex": "#9C4124",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 5.699999809265137,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:342",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 313",
+      "size": {
+        "w": 170.9,
+        "h": 153.6
+      },
+      "pos": {
+        "x": 4914.0,
+        "y": 5686.0
+      },
+      "renderBounds": {
+        "x": 4912.2,
+        "y": 5684.2,
+        "w": 174.4,
+        "h": 157.1
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 4.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:343",
+      "type": "TEXT",
+      "name": "Набор для ухода, чайная корзина, халаты, фен, утюг",
+      "size": {
+        "w": 134.5,
+        "h": 34.2
+      },
+      "pos": {
+        "x": 4939.4,
+        "y": 5722.5
+      },
+      "renderBounds": {
+        "x": 4939.7,
+        "y": 5723.8,
+        "w": 123.7,
+        "h": 29.1
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Набор для ухода, чайная корзина, халаты, фен, утюг"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:344",
+      "type": "TEXT",
+      "name": "Санкт-Петербург",
+      "size": {
+        "w": 125.6,
+        "h": 24.6
+      },
+      "pos": {
+        "x": 4943.0,
+        "y": 5700.0
+      },
+      "renderBounds": {
+        "x": 4942.0,
+        "y": 5703.5,
+        "w": 101.8,
+        "h": 26.2
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "VIP - сервис"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:352",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 315",
+      "size": {
+        "w": 165.6,
+        "h": 150.7
+      },
+      "pos": {
+        "x": 4700.0,
+        "y": 5780.7
+      },
+      "renderBounds": {
+        "x": 4699.3,
+        "y": 5780.0,
+        "w": 167.0,
+        "h": 152.1
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 4.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:353",
+      "type": "TEXT",
+      "name": "Вино, фрукты, ежедневная уборка, консьерж-сервис, люксовые принадлежности",
+      "size": {
+        "w": 148.5,
+        "h": 65.7
+      },
+      "pos": {
+        "x": 4711.1,
+        "y": 5808.7
+      },
+      "renderBounds": {
+        "x": 4711.7,
+        "y": 5813.5,
+        "w": 127.5,
+        "h": 45.0
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Вино, фрукты, ежедневная уборка, консьерж-сервис, люксовые  принадлежности"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:354",
+      "type": "ELLIPSE",
+      "name": "Ellipse 16",
+      "size": {
+        "w": 10.3,
+        "h": 10.3
+      },
+      "pos": {
+        "x": 4709.0,
+        "y": 5819.1
+      },
+      "renderBounds": {
+        "x": 4709.8,
+        "y": 5819.9,
+        "w": 8.7,
+        "h": 8.7
+      },
+      "strokes": [
+        "#261C15"
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:355",
+      "type": "TEXT",
+      "name": "Санкт-Петербург",
+      "size": {
+        "w": 115.1,
+        "h": 30.8
+      },
+      "pos": {
+        "x": 4722.5,
+        "y": 5790.6
+      },
+      "renderBounds": {
+        "x": 4724.0,
+        "y": 5808.8,
+        "w": 43.9,
+        "h": 19.2
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Вино"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:356",
+      "type": "RECTANGLE",
+      "name": "35647589087653447658967970000 6",
+      "size": {
+        "w": 75.3,
+        "h": 86.3
+      },
+      "pos": {
+        "x": 4781.5,
+        "y": 5829.6
+      },
+      "renderBounds": {
+        "x": 4781.5,
+        "y": 5829.6,
+        "w": 75.3,
+        "h": 86.3
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:367",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 318",
+      "size": {
+        "w": 184.4,
+        "h": 170.4
+      },
+      "pos": {
+        "x": 4849.0,
+        "y": 5768.0
+      },
+      "renderBounds": {
+        "x": 4851.8,
+        "y": 5770.8,
+        "w": 178.8,
+        "h": 164.7
+      },
+      "fills": [
+        {
+          "hex": "#9C4124",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 1.2999999523162842,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:370",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 319",
+      "size": {
+        "w": 174.2,
+        "h": 157.7
+      },
+      "pos": {
+        "x": 4841.0,
+        "y": 5785.0
+      },
+      "renderBounds": {
+        "x": 4839.7,
+        "y": 5783.7,
+        "w": 176.8,
+        "h": 160.3
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "x": 0.0,
+          "y": 0.0,
+          "blur": 4.0,
+          "spread": 0,
+          "color": "#000000"
+        }
+      ],
+      "radii": [
+        18.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:371",
+      "type": "TEXT",
+      "name": "Набор для ухода, чайная корзина, халаты, фен, утюг",
+      "size": {
+        "w": 134.4,
+        "h": 38.1
+      },
+      "pos": {
+        "x": 4860.0,
+        "y": 5832.3
+      },
+      "renderBounds": {
+        "x": 4860.4,
+        "y": 5833.5,
+        "w": 123.6,
+        "h": 32.8
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Набор для ухода, чайная корзина, халаты, фен, утюг"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:372",
+      "type": "TEXT",
+      "name": "Санкт-Петербург",
+      "size": {
+        "w": 125.2,
+        "h": 28.3
+      },
+      "pos": {
+        "x": 4884.2,
+        "y": 5797.8
+      },
+      "renderBounds": {
+        "x": 4880.9,
+        "y": 5800.7,
+        "w": 78.7,
+        "h": 42.0
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Поздний\nвыезд"
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "211:373",
+      "type": "ELLIPSE",
+      "name": "Ellipse 19",
+      "size": {
+        "w": 10.8,
+        "h": 10.8
+      },
+      "pos": {
+        "x": 4867.0,
+        "y": 5799.0
+      },
+      "renderBounds": {
+        "x": 4867.7,
+        "y": 5799.7,
+        "w": 9.4,
+        "h": 9.4
+      },
+      "strokes": [
+        "#261C15"
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:376",
+      "type": "RECTANGLE",
+      "name": "65434567896769834768869567878888998980 1",
+      "size": {
+        "w": 53.5,
+        "h": 59.9
+      },
+      "pos": {
+        "x": 4925.8,
+        "y": 5863.6
+      },
+      "renderBounds": {
+        "x": 4925.8,
+        "y": 5863.6,
+        "w": 53.5,
+        "h": 59.9
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:404",
+      "type": "RECTANGLE",
+      "name": "Прямоугольник 163",
+      "size": {
+        "w": 1920.0,
+        "h": 648.0
+      },
+      "pos": {
+        "x": 3772.0,
+        "y": 6777.0
+      },
+      "renderBounds": {
+        "x": 3772.0,
+        "y": 6777.0,
+        "w": 1920.0,
+        "h": 648.0
+      },
+      "fills": [
+        {
+          "hex": "#261C15",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "radii": [
+        34.0,
+        34.0,
+        0.0,
+        0.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:405",
+      "type": "GROUP",
+      "name": "Повторяющаяся сетка 13",
+      "size": {
+        "w": 1920.0,
+        "h": 187.0
+      },
+      "pos": {
+        "x": 3772.0,
+        "y": 7312.0
+      },
+      "renderBounds": {
+        "x": 3772.0,
+        "y": 7312.0,
+        "w": 1920.0,
+        "h": 113.0
+      },
+      "radii": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:424",
+      "type": "TEXT",
+      "name": "Правовая информация",
+      "size": {
+        "w": 356.0,
+        "h": 29.0
+      },
+      "pos": {
+        "x": 5231.0,
+        "y": 6885.0
+      },
+      "renderBounds": {
+        "x": 5232.6,
+        "y": 6890.3,
+        "w": 352.8,
+        "h": 21.5
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 23.0,
+        "lineHeight": 28.520000457763672,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Правовая информация"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:425",
+      "type": "TEXT",
+      "name": "Политика конфиденциальности",
+      "size": {
+        "w": 264.0,
+        "h": 16.0
+      },
+      "pos": {
+        "x": 5231.0,
+        "y": 6964.0
+      },
+      "renderBounds": {
+        "x": 5232.1,
+        "y": 6967.0,
+        "w": 261.4,
+        "h": 12.2
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 13.0,
+        "lineHeight": 16.1200008392334,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Политика конфиденциальности"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:426",
+      "type": "TEXT",
+      "name": "Условия для арендатора",
+      "size": {
+        "w": 219.0,
+        "h": 17.0
+      },
+      "pos": {
+        "x": 5231.0,
+        "y": 7019.0
+      },
+      "renderBounds": {
+        "x": 5231.2,
+        "y": 7022.5,
+        "w": 217.2,
+        "h": 12.8
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Условия для арендатора"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:427",
+      "type": "TEXT",
+      "name": "Пользовательское соглашение",
+      "size": {
+        "w": 254.0,
+        "h": 16.0
+      },
+      "pos": {
+        "x": 5231.0,
+        "y": 7073.0
+      },
+      "renderBounds": {
+        "x": 5232.1,
+        "y": 7076.2,
+        "w": 251.8,
+        "h": 9.9
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 13.0,
+        "lineHeight": 16.1200008392334,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Пользовательское соглашение"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:428",
+      "type": "TEXT",
+      "name": "Другие документы сайта",
+      "size": {
+        "w": 219.0,
+        "h": 17.0
+      },
+      "pos": {
+        "x": 5231.0,
+        "y": 7128.0
+      },
+      "renderBounds": {
+        "x": 5231.2,
+        "y": 7130.8,
+        "w": 217.5,
+        "h": 13.7
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Другие документы сайта"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:429",
+      "type": "TEXT",
+      "name": "О компании",
+      "size": {
+        "w": 180.0,
+        "h": 29.0
+      },
+      "pos": {
+        "x": 4391.0,
+        "y": 6885.0
+      },
+      "renderBounds": {
+        "x": 4391.9,
+        "y": 6890.4,
+        "w": 177.2,
+        "h": 18.0
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 23.0,
+        "lineHeight": 28.520000457763672,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "О компании"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:430",
+      "type": "TEXT",
+      "name": "Контакты",
+      "size": {
+        "w": 83.0,
+        "h": 17.0
+      },
+      "pos": {
+        "x": 4391.0,
+        "y": 6964.0
+      },
+      "renderBounds": {
+        "x": 4392.2,
+        "y": 6967.5,
+        "w": 80.5,
+        "h": 10.7
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Контакты"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:431",
+      "type": "TEXT",
+      "name": "Миссия",
+      "size": {
+        "w": 69.0,
+        "h": 17.0
+      },
+      "pos": {
+        "x": 4391.0,
+        "y": 7019.0
+      },
+      "renderBounds": {
+        "x": 4392.2,
+        "y": 7022.5,
+        "w": 66.2,
+        "h": 10.7
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Миссия"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:432",
+      "type": "TEXT",
+      "name": "Реквезиты",
+      "size": {
+        "w": 86.0,
+        "h": 16.0
+      },
+      "pos": {
+        "x": 4391.0,
+        "y": 7184.0
+      },
+      "renderBounds": {
+        "x": 4392.1,
+        "y": 7187.2,
+        "w": 83.3,
+        "h": 9.9
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 13.0,
+        "lineHeight": 16.1200008392334,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Реквезиты"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:433",
+      "type": "TEXT",
+      "name": "Вакансии",
+      "size": {
+        "w": 86.0,
+        "h": 17.0
+      },
+      "pos": {
+        "x": 4391.0,
+        "y": 7074.0
+      },
+      "renderBounds": {
+        "x": 4391.8,
+        "y": 7077.5,
+        "w": 83.8,
+        "h": 10.7
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Вакансии"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:434",
+      "type": "TEXT",
+      "name": "Реферальная система",
+      "size": {
+        "w": 200.0,
+        "h": 17.0
+      },
+      "pos": {
+        "x": 4391.0,
+        "y": 7129.0
+      },
+      "renderBounds": {
+        "x": 4392.2,
+        "y": 7132.2,
+        "w": 197.3,
+        "h": 13.1
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Реферальная система"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:435",
+      "type": "TEXT",
+      "name": "Блог",
+      "size": {
+        "w": 70.0,
+        "h": 29.0
+      },
+      "pos": {
+        "x": 4795.0,
+        "y": 6885.0
+      },
+      "renderBounds": {
+        "x": 4796.1,
+        "y": 6890.8,
+        "w": 68.1,
+        "h": 17.6
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 23.0,
+        "lineHeight": 28.520000457763672,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Блог"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:436",
+      "type": "TEXT",
+      "name": "Ответы на частые вопросы",
+      "size": {
+        "w": 216.0,
+        "h": 16.0
+      },
+      "pos": {
+        "x": 4795.0,
+        "y": 6964.0
+      },
+      "renderBounds": {
+        "x": 4795.6,
+        "y": 6967.1,
+        "w": 214.5,
+        "h": 12.1
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 13.0,
+        "lineHeight": 16.1200008392334,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Ответы на частые вопросы"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:437",
+      "type": "TEXT",
+      "name": "Интересные статьи",
+      "size": {
+        "w": 169.0,
+        "h": 17.0
+      },
+      "pos": {
+        "x": 4795.0,
+        "y": 7019.0
+      },
+      "renderBounds": {
+        "x": 4796.2,
+        "y": 7022.5,
+        "w": 165.9,
+        "h": 12.8
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Интересные статьи"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:438",
+      "type": "TEXT",
+      "name": "Топ-5 преимуществ",
+      "size": {
+        "w": 170.0,
+        "h": 17.0
+      },
+      "pos": {
+        "x": 4795.0,
+        "y": 7129.0
+      },
+      "renderBounds": {
+        "x": 4795.2,
+        "y": 7132.5,
+        "w": 168.7,
+        "h": 13.0
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Топ-5 преимуществ"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:439",
+      "type": "TEXT",
+      "name": "Как выбрать пакет услуг?",
+      "size": {
+        "w": 206.0,
+        "h": 16.0
+      },
+      "pos": {
+        "x": 4795.0,
+        "y": 7074.0
+      },
+      "renderBounds": {
+        "x": 4796.1,
+        "y": 7076.7,
+        "w": 204.3,
+        "h": 12.7
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 13.0,
+        "lineHeight": 16.1200008392334,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Как выбрать пакет услуг?"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:440",
+      "type": "RECTANGLE",
+      "name": "Беж, без фона",
+      "size": {
+        "w": 473.0,
+        "h": 473.0
+      },
+      "pos": {
+        "x": 3783.0,
+        "y": 6659.0
+      },
+      "renderBounds": {
+        "x": 3783.0,
+        "y": 6659.0,
+        "w": 473.0,
+        "h": 473.0
+      },
+      "strokes": [],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:441",
+      "type": "VECTOR",
+      "name": "Контур 68",
+      "size": {
+        "w": 47.0,
+        "h": 47.0
+      },
+      "pos": {
+        "x": 3862.0,
+        "y": 7100.5
+      },
+      "renderBounds": {
+        "x": 3862.0,
+        "y": 7100.5,
+        "w": 47.0,
+        "h": 47.0
+      },
+      "fills": [
+        {
+          "hex": "#9C4124",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:442",
+      "type": "VECTOR",
+      "name": "Контур 69",
+      "size": {
+        "w": 26.6,
+        "h": 16.9
+      },
+      "pos": {
+        "x": 3872.2,
+        "y": 7120.9
+      },
+      "renderBounds": {
+        "x": 3872.2,
+        "y": 7120.9,
+        "w": 26.6,
+        "h": 16.9
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:443",
+      "type": "VECTOR",
+      "name": "Контур 70",
+      "size": {
+        "w": 47.0,
+        "h": 47.0
+      },
+      "pos": {
+        "x": 3920.9,
+        "y": 7100.5
+      },
+      "renderBounds": {
+        "x": 3920.9,
+        "y": 7100.5,
+        "w": 47.0,
+        "h": 47.0
+      },
+      "fills": [
+        {
+          "hex": "#9C4124",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:444",
+      "type": "VECTOR",
+      "name": "Контур 71",
+      "size": {
+        "w": 23.5,
+        "h": 21.1
+      },
+      "pos": {
+        "x": 3931.9,
+        "y": 7118.0
+      },
+      "renderBounds": {
+        "x": 3931.9,
+        "y": 7118.0,
+        "w": 23.5,
+        "h": 21.1
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:445",
+      "type": "VECTOR",
+      "name": "Контур 72",
+      "size": {
+        "w": 47.0,
+        "h": 47.0
+      },
+      "pos": {
+        "x": 3979.9,
+        "y": 7100.5
+      },
+      "renderBounds": {
+        "x": 3979.9,
+        "y": 7100.5,
+        "w": 47.0,
+        "h": 47.0
+      },
+      "fills": [
+        {
+          "hex": "#9C4124",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:446",
+      "type": "VECTOR",
+      "name": "Контур 73",
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "pos": {
+        "x": 3992.2,
+        "y": 7117.0
+      },
+      "renderBounds": {
+        "x": 3992.2,
+        "y": 7117.0,
+        "w": 22.3,
+        "h": 22.3
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:447",
+      "type": "VECTOR",
+      "name": "Контур 74",
+      "size": {
+        "w": 47.0,
+        "h": 47.0
+      },
+      "pos": {
+        "x": 4038.8,
+        "y": 7100.5
+      },
+      "renderBounds": {
+        "x": 4038.8,
+        "y": 7100.5,
+        "w": 47.0,
+        "h": 47.0
+      },
+      "fills": [
+        {
+          "hex": "#9C4124",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:448",
+      "type": "VECTOR",
+      "name": "Контур 75",
+      "size": {
+        "w": 26.7,
+        "h": 18.2
+      },
+      "pos": {
+        "x": 4049.0,
+        "y": 7118.9
+      },
+      "renderBounds": {
+        "x": 4049.0,
+        "y": 7118.9,
+        "w": 26.7,
+        "h": 18.2
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "strokes": [],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:449",
+      "type": "TEXT",
+      "name": "© ООО \"Метры в центре\"",
+      "size": {
+        "w": 213.0,
+        "h": 19.0
+      },
+      "pos": {
+        "x": 3862.0,
+        "y": 7163.0
+      },
+      "renderBounds": {
+        "x": 3863.0,
+        "y": 7166.6,
+        "w": 210.3,
+        "h": 13.9
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 15.0,
+        "lineHeight": 18.600000381469727,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "© ООО \"Метры в центре\""
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:450",
+      "type": "TEXT",
+      "name": "8 800 723 5682",
+      "size": {
+        "w": 244.0,
+        "h": 31.0
+      },
+      "pos": {
+        "x": 3862.0,
+        "y": 6977.0
+      },
+      "renderBounds": {
+        "x": 3863.2,
+        "y": 6982.9,
+        "w": 241.0,
+        "h": 19.5
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 25.0,
+        "lineHeight": 31.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "8 800 723 5678"
+      },
+      "fills": [
+        {
+          "hex": "#9C4124",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    },
+    {
+      "id": "215:451",
+      "type": "TEXT",
+      "name": "Телефон круглосуточного колцентра",
+      "size": {
+        "w": 330.0,
+        "h": 19.0
+      },
+      "pos": {
+        "x": 3862.0,
+        "y": 7023.0
+      },
+      "renderBounds": {
+        "x": 3862.2,
+        "y": 7026.5,
+        "w": 328.2,
+        "h": 14.2
+      },
+      "textStyle": {
+        "family": "Unbounded",
+        "fontSize": 15.0,
+        "lineHeight": 18.600000381469727,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Телефон круглосуточного колцентра"
+      },
+      "fills": [
+        {
+          "hex": "#E7E3DA",
+          "opacity": 1,
+          "gradient": false
+        }
+      ],
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      }
+    }
+  ],
+  "issues": {
+    "offGrid": [],
+    "gapDrift": [],
+    "paddingMismatch": [],
+    "typoDrift": [],
+    "colorNearDuplicates": []
+  },
+  "tokens": {
+    "colors": [
+      {
+        "hex": "#E7E3DA",
+        "count": 43
+      },
+      {
+        "hex": "#261C15",
+        "count": 29
+      },
+      {
+        "hex": "#9C4124",
+        "count": 13
+      },
+      {
+        "hex": "#26140C",
+        "count": 3
+      }
+    ],
+    "textStyles": [
+      {
+        "family": "Unbounded",
+        "fontSize": 18.0,
+        "lineHeight": 22.31999969482422,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Аккаунт"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 50.0,
+        "lineHeight": 86.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Блог"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Как выбрать пакет?"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Почему мы?"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Интересные\nистории"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Наш мерч"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Места, которые стоит посетить в Питере"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Топ-5 преимуществ\nпремиум-заселения"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Уют..."
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Как называли однушки в царской России?"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Почему мы?"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 34.0,
+        "lineHeight": 39.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Топ-5 преимуществ\nпремиум-заселения"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Базовое"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Набор для ухода, чайная корзина, халаты, фен, утюг"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Комфорт"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Набор для ухода, чайная корзина, халаты, фен, утюг"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Комфорт"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Базовое"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Ключи, постельное белье, \nполотенца, гигиенические средства"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Вино, фрукты, ежедневная уборка, консьерж-сервис, люксовые  принадлежности"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Премиум"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Набор для ухода, чайная корзина, халаты, фен, утюг"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Другое"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Набор для ухода, чайная корзина, халаты, фен, утюг"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Аксессуары"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Набор для ухода, чайная корзина, халаты, фен, утюг"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "VIP - сервис"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Вино, фрукты, ежедневная уборка, консьерж-сервис, люксовые  принадлежности"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Вино"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 6.0,
+        "lineHeight": 7.440000057220459,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Набор для ухода, чайная корзина, халаты, фен, утюг"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Поздний\nвыезд"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 23.0,
+        "lineHeight": 28.520000457763672,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Правовая информация"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 13.0,
+        "lineHeight": 16.1200008392334,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Политика конфиденциальности"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Условия для арендатора"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 13.0,
+        "lineHeight": 16.1200008392334,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Пользовательское соглашение"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Другие документы сайта"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 23.0,
+        "lineHeight": 28.520000457763672,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "О компании"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Контакты"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Миссия"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 13.0,
+        "lineHeight": 16.1200008392334,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Реквезиты"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Вакансии"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Реферальная система"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 23.0,
+        "lineHeight": 28.520000457763672,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Блог"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 13.0,
+        "lineHeight": 16.1200008392334,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Ответы на частые вопросы"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Интересные статьи"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 14.0,
+        "lineHeight": 17.360000610351562,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Топ-5 преимуществ"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 13.0,
+        "lineHeight": 16.1200008392334,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Как выбрать пакет услуг?"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 15.0,
+        "lineHeight": 18.600000381469727,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "© ООО \"Метры в центре\""
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 25.0,
+        "lineHeight": 31.0,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "8 800 723 5678"
+      },
+      {
+        "family": "Unbounded",
+        "fontSize": 15.0,
+        "lineHeight": 18.600000381469727,
+        "letterSpacing": 0.0,
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE",
+        "textAutoResize": "NONE",
+        "content": "Телефон круглосуточного колцентра"
+      }
+    ],
+    "shadows": [
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 5.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 3.0,
+        "blur": 3.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 5.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 5.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 5.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 5.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 5.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 5.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 5.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 5.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 5.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 5.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 5.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 1.2999999523162842,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 1.2999999523162842,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 1.2999999523162842,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 4.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 4.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 4.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 4.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 4.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 4.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 4.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 4.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 5.699999809265137,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 4.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 4.0,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 1.2999999523162842,
+        "spread": 0,
+        "color": "#000000"
+      },
+      {
+        "type": "DROP_SHADOW",
+        "x": 0.0,
+        "y": 0.0,
+        "blur": 4.0,
+        "spread": 0,
+        "color": "#000000"
+      }
+    ],
+    "radii": [
+      0.0,
+      12.0,
+      18.0,
+      34.0
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "offGrid": [],
+  "gapDrift": [],
+  "paddingMismatch": [],
+  "typoDrift": [
+    {
+      "family_size": "NT Somic-18.0",
+      "lineHeights": [
+        31.0,
+        23.579998016357422
+      ],
+      "letterSpacings": [
+        0.0
+      ]
+    }
+  ],
+  "colorNearDuplicates": []
+}
