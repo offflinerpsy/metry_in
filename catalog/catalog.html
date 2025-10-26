@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Catalog — 1920px (static baseline)</title>
+  <style>
+    html,body{margin:0;padding:0;background:#E7E3DA;color:#261C15}
+    /* контейнер фрейма */
+    .frame{position:relative; width:1920px; height:3699px; margin:0 auto; image-rendering:pixelated; image-rendering:-moz-crisp-edges;}
+    /* базовый скрин */
+    .frame>img{position:absolute; inset:0; width:100%; height:100%; display:block;}
+    /* декоративная сетка (на будущее) */
+    .grid{position:absolute; pointer-events:none; inset:0; box-shadow:0 0 0 1px rgba(0,0,0,.05) inset;}
+  </style>
+  <link rel="preload" href="https://raw.githubusercontent.com/nnttttyyppee/NT-Somic/main/fonts/NT-Somic-Regular.ttf" as="font" type="font/ttf" crossorigin>
+</head>
+<body>
+  <main class="frame" aria-label="Figma frame 1920px">
+    <img alt="baseline 1920px" src="assets/png/1920px.png"/>
+    <div class="grid"></div>
+  </main>
+</body>
+</html>
